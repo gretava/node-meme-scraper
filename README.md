@@ -2,8 +2,9 @@
 
 Create a cli application that scrapes the current version of the website
 
+## TODO
+
 ```bash
-TODO:
 - [ ] Command line cheatsheet steps (setup for Node.js project)
 - [ ] Set up a `.gitignore` with the `memes` folder
 - [ ] Create a folder called `"memes"`
